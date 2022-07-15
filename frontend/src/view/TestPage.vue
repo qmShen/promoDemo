@@ -2,6 +2,7 @@
     <div class="main-page" style="height: calc(100vh - 20px);">
         <button @click="clickToInit">Init facts</button>
         <button @click="test">Test</button>
+        <button @click="evaluate">generate evaluate</button>
         <Demo v-if="facts" style="width: 100%; height: 100%; " :facts="facts"
               :selectedFactIds="selectedFactIds"
               :candidateFactIds="candidateFactIds"
@@ -42,8 +43,13 @@ export default {
             this.$store.commit('test/updateSelectFactIds', [0,1,2,3,4,5,6,7,8,9,10])
         },
         test(){
-            console.log('click test')
+            this.$store.commit('test/updateSelectFactIds', [1,2,5,7,9])
             this.$store.dispatch('test/evaluateStory', [1,2,5,7,9]);
+        },
+        evaluate(){
+            for(let i=0, ilen=this.candidateFactIds.length; i < ilen+1; i++){
+                console.log(i)
+            }
         }
     },
     watch:{
