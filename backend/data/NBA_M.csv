@@ -1,0 +1,101 @@
+measure,subspace,rank,target rank,total score,rank score,impact score
+AST,*_*_Chicago Bulls_NBA_*,1,1,-5,-1,-4
+AST,*_*_*_NBA_SG,2,4,-5,-4,-1
+AST,1989_*_*_NBA_*,3,8,-16,-8,-8
+AST,1989_*_*_NBA_SG,4,1,-17,-1,-16
+AST,*_*_Chicago Bulls_NBA_SG,5,1,-17,-1,-16
+AST,1991_*_*_NBA_SG,6,2,-18,-2,-16
+AST,1992_*_*_NBA_SG,7,2,-18,-2,-16
+AST,1996_*_*_NBA_SG,8,2,-18,-2,-16
+AST,1990_*_*_NBA_SG,9,2,-18,-2,-16
+AST,1985_*_*_NBA_SG,10,3,-19,-3,-16
+AST,1993_*_*_NBA_SG,11,3,-19,-3,-16
+AST,2003_*_*_NBA_SF,12,4,-20,-4,-16
+AST,1987_*_*_NBA_SG,13,5,-21,-5,-16
+AST,2002_*_*_NBA_SF,14,5,-21,-5,-16
+AST,1997_*_*_NBA_SG,15,5,-21,-5,-16
+AST,1988_*_*_NBA_SG,16,6,-22,-6,-16
+AST,1998_*_*_NBA_SG,17,8,-24,-8,-16
+AST,1991_*_*_NBA_*,18,21,-25,-21,-4
+AST,*_*_Washington Wizards_NBA_SF,19,10,-26,-10,-16
+AST,1992_*_*_NBA_*,20,22,-26,-22,-4
+AST,1988_*_*_NBA_*,21,19,-27,-19,-8
+AST,1990_*_*_NBA_*,22,19,-27,-19,-8
+AST,1993_*_*_NBA_*,23,24,-28,-24,-4
+AST,1985_*_*_NBA_*,24,21,-29,-21,-8
+AST,1997_*_*_NBA_*,25,30,-34,-30,-4
+AST,1996_*_*_NBA_*,26,33,-37,-33,-4
+AST,1987_*_*_NBA_*,27,30,-38,-30,-8
+AST,*_*_*_NBA_*,28,43,-43.5,-43,-0.5
+AST,*_*_Washington Wizards_NBA_*,29,42,-46,-42,-4
+AST,2003_*_*_NBA_*,30,42,-46,-42,-4
+AST,1998_*_*_NBA_*,31,43,-47,-43,-4
+AST,2002_*_*_NBA_*,32,45,-49,-45,-4
+AST,1995_*_*_NBA_SG,33,46,-62,-46,-16
+AST,1986_*_*_NBA_SG,34,48,-64,-48,-16
+AST,1985_*_Chicago Bulls_NBA_*,35,1,-65,-1,-64
+AST,1988_*_Chicago Bulls_NBA_*,36,1,-65,-1,-64
+AST,1989_*_Chicago Bulls_NBA_*,37,1,-65,-1,-64
+AST,1990_*_Chicago Bulls_NBA_*,38,1,-65,-1,-64
+AST,1993_*_Chicago Bulls_NBA_*,39,2,-66,-2,-64
+AST,1991_*_Chicago Bulls_NBA_*,40,2,-66,-2,-64
+AST,1987_*_Chicago Bulls_NBA_*,41,2,-66,-2,-64
+AST,2003_*_Washington Wizards_NBA_*,42,2,-66,-2,-64
+AST,1996_*_Chicago Bulls_NBA_*,43,2,-66,-2,-64
+AST,1992_*_Chicago Bulls_NBA_*,44,2,-66,-2,-64
+AST,1998_*_Chicago Bulls_NBA_*,45,2,-66,-2,-64
+AST,2002_*_Washington Wizards_NBA_*,46,2,-66,-2,-64
+AST,1997_*_Chicago Bulls_NBA_*,47,2,-66,-2,-64
+AST,1995_*_Chicago Bulls_NBA_*,48,8,-72,-8,-64
+AST,1986_*_Chicago Bulls_NBA_*,49,10,-74,-10,-64
+AST,2003_*_Washington Wizards_NBA_SF,50,1,-129,-1,-128
+PTS,*_*_*_NBA_SG,1,2,-3,-2,-1
+PTS,*_*_*_NBA_*,2,4,-4.5,-4,-0.5
+PTS,*_*_Chicago Bulls_NBA_*,3,1,-5,-1,-4
+PTS,1992_*_*_NBA_*,4,1,-5,-1,-4
+PTS,1996_*_*_NBA_*,5,1,-5,-1,-4
+PTS,1997_*_*_NBA_*,6,1,-5,-1,-4
+PTS,1993_*_*_NBA_*,7,1,-5,-1,-4
+PTS,1998_*_*_NBA_*,8,1,-5,-1,-4
+PTS,1991_*_*_NBA_*,9,1,-5,-1,-4
+PTS,1987_*_*_NBA_*,10,1,-9,-1,-8
+PTS,1988_*_*_NBA_*,11,1,-9,-1,-8
+PTS,1989_*_*_NBA_*,12,1,-9,-1,-8
+PTS,1990_*_*_NBA_*,13,1,-9,-1,-8
+PTS,1985_*_*_NBA_*,14,2,-10,-2,-8
+PTS,1993_*_*_NBA_SG,15,1,-17,-1,-16
+PTS,1987_*_*_NBA_SG,16,1,-17,-1,-16
+PTS,1997_*_*_NBA_SG,17,1,-17,-1,-16
+PTS,1998_*_*_NBA_SG,18,1,-17,-1,-16
+PTS,1988_*_*_NBA_SG,19,1,-17,-1,-16
+PTS,1992_*_*_NBA_SG,20,1,-17,-1,-16
+PTS,1989_*_*_NBA_SG,21,1,-17,-1,-16
+PTS,1991_*_*_NBA_SG,22,1,-17,-1,-16
+PTS,1996_*_*_NBA_SG,23,1,-17,-1,-16
+PTS,1985_*_*_NBA_SG,24,1,-17,-1,-16
+PTS,*_*_Chicago Bulls_NBA_SG,25,1,-17,-1,-16
+PTS,1990_*_*_NBA_SG,26,1,-17,-1,-16
+PTS,2003_*_*_NBA_SF,27,5,-21,-5,-16
+PTS,2003_*_*_NBA_*,28,18,-22,-18,-4
+PTS,2002_*_*_NBA_SF,29,9,-25,-9,-16
+PTS,*_*_Washington Wizards_NBA_SF,30,12,-28,-12,-16
+PTS,2002_*_*_NBA_*,31,34,-38,-34,-4
+PTS,*_*_Washington Wizards_NBA_*,32,44,-48,-44,-4
+PTS,1986_*_*_NBA_SG,33,39,-55,-39,-16
+PTS,1995_*_*_NBA_SG,34,41,-57,-41,-16
+PTS,1993_*_Chicago Bulls_NBA_*,35,1,-65,-1,-64
+PTS,1991_*_Chicago Bulls_NBA_*,36,1,-65,-1,-64
+PTS,1987_*_Chicago Bulls_NBA_*,37,1,-65,-1,-64
+PTS,1988_*_Chicago Bulls_NBA_*,38,1,-65,-1,-64
+PTS,1985_*_Chicago Bulls_NBA_*,39,1,-65,-1,-64
+PTS,1996_*_Chicago Bulls_NBA_*,40,1,-65,-1,-64
+PTS,1992_*_Chicago Bulls_NBA_*,41,1,-65,-1,-64
+PTS,1998_*_Chicago Bulls_NBA_*,42,1,-65,-1,-64
+PTS,2002_*_Washington Wizards_NBA_*,43,1,-65,-1,-64
+PTS,2003_*_Washington Wizards_NBA_*,44,1,-65,-1,-64
+PTS,1989_*_Chicago Bulls_NBA_*,45,1,-65,-1,-64
+PTS,1997_*_Chicago Bulls_NBA_*,46,1,-65,-1,-64
+PTS,1990_*_Chicago Bulls_NBA_*,47,1,-65,-1,-64
+PTS,1995_*_Chicago Bulls_NBA_*,48,7,-71,-7,-64
+PTS,1986_*_Chicago Bulls_NBA_*,49,9,-73,-9,-64
+PTS,2003_*_Washington Wizards_NBA_SF,50,1,-129,-1,-128
