@@ -6,6 +6,7 @@
         <Demo v-if="facts" style="width: 100%; height: 100%; " :facts="facts"
               :selectedFactIds="selectedFactIds"
               :candidateFactIds="candidateFactIds"
+              :selectedIdMap="selectedIdMap"
         ></Demo>
     </div>
 </template>
@@ -36,20 +37,39 @@ export default {
             selectedFactIds: state => state.selectedFactIds,
             candidateFactIds: state => state.candidateFactIds,
         }),
+        selectedIdMap(){
+            let map = {}
+            this.selectedFactIds.forEach(i=>{
+                map[i] = true
+            })
+            return map
+        }
     },
     methods:{
         clickToInit(){
 
-            this.$store.commit('test/updateSelectFactIds', [0,1,2,3,4,5,6,7,8,9,10])
+            this.$store.commit('test/updateSelectFactIds', [0,1,2,3,4])
         },
         test(){
             this.$store.commit('test/updateSelectFactIds', [1,2,5,7,9])
             this.$store.dispatch('test/evaluateStory', [1,2,5,7,9]);
         },
         evaluate(){
-            for(let i=0, ilen=this.candidateFactIds.length; i < ilen+1; i++){
-                console.log(i)
+            let evaluationObjs = []
+            for(let rid=0, rLen = this.selectedFactIds.length + 1; rid < rLen; rid++){
+                for(let cid = 0, cLen = this.candidateFactIds.length; cid < cLen; cid++){
+                    let _selectFactIds = [...this.selectedFactIds]
+                    let c = this.candidateFactIds[cid];
+                    if(this.selectedIdMap[c] == undefined){
+                        _selectFactIds.splice(rid, 0, c)
+                        evaluationObjs.push({
+                            'rid': rid, 'cid': cid, 'factIds': _selectFactIds
+                        })
+                    }
+                }
             }
+            console.log("evaluationObjs", evaluationObjs)
+            this.$store.dispatch('test/evaluateStories', evaluationObjs);
         }
     },
     watch:{

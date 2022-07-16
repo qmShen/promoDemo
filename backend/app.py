@@ -45,9 +45,19 @@ def evaluate_story_facts():
 
 @app.route('/api/test/evaluateStories/', methods=['POST'])
 def evaluate_stories():
+    import time
+    start_time = time.time()
     params = request.json
-    print('evaluate_story_facts params', params)
-    return '123'
+    factObjs = params
+    print('evaluate_story_facts params', len(factObjs))
+    for factObj in factObjs:
+        ids = factObj['factIds']
+        evaluator.set_story_list(ids)
+        eva_results = evaluator.calc_score()
+        del factObj['factIds']
+        factObj['eva'] = eva_results
+    print('result', time.time() - start_time)
+    return json.dumps(factObjs)
 
 if __name__ == '__main__':
     app.run()

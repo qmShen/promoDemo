@@ -4,6 +4,7 @@
                      :facts="facts"
                      :selectedFactIds="selectedFactIds"
                      :candidateFactIds="candidateFactIds"
+                     :selectedIdMap="selectedIdMap"
         ></fact-matrix>
     </div>
 </template>
@@ -13,7 +14,7 @@ import FactMatrix from "@/components/fact_matrix/FactMatrix";
 export default {
     name: "Demo",
     components: {FactMatrix},
-    props: ['facts', 'selectedFactIds', 'candidateFactIds']
+    props: ['facts', 'selectedFactIds', 'candidateFactIds','selectedIdMap']
 }
 </script>
 

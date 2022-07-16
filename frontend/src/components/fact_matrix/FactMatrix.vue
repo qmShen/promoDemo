@@ -27,7 +27,8 @@ export default {
     components: {ColumnHead, RowHead},
     props:['facts',
         'selectedFactIds',
-        'candidateFactIds'
+        'candidateFactIds',
+        'selectedIdMap'
     ],
     data(){
         return {
@@ -79,14 +80,6 @@ export default {
         },
         totalLength(){
             return this.facts.length
-        },
-        selectedIdMap(){
-            let map = {}
-            this.selectedFactIds.forEach(i=>{
-                map[i] = true
-            })
-            console.log('map', map)
-            return map
         }
     }
 }

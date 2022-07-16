@@ -34,20 +34,17 @@ const actions = {
     })
   },
   evaluateStory(_, fact_ids) {
-    console.log('fact_ids', fact_ids)
     dataService.evaluateStory(fact_ids, resp => {
       console.log('evaluateStory ', resp)
     })
   },
   evaluateStories(_, fact_id_list) {
-    console.log('fact_ids', fact_id_list)
     dataService.evaluateStories(fact_id_list, resp => {
       console.log('evaluateStories ', resp)
     })
   },
   evaluateCurrentStory({state, commit}) {
     dataService.evaluateStory(state.selectFactIds, resp => {
-      console.log('score ', resp)
       commit('updateScore', resp)
     })
   },
