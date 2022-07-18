@@ -1,0 +1,161 @@
+measure,subspace,rank,target rank,total score,rank score,impact score
+AST,*_*_*_NBA_SG,1,1,-2,-1,-1
+AST,*_*_Los Angeles Lakers_NBA_*,2,3,-7,-3,-4
+AST,*_*_Los Angeles Lakers_NBA_SG,3,1,-9,-1,-8
+AST,2003_*_*_NBA_SG,4,1,-17,-1,-16
+AST,2003_*_*_NBA_*,5,14,-18,-14,-4
+AST,2013_*_*_NBA_SG,6,2,-18,-2,-16
+AST,2005_*_*_NBA_SG,7,2,-18,-2,-16
+AST,2000_*_*_NBA_SG,8,3,-19,-3,-16
+AST,2008_*_*_NBA_*,9,15,-19,-15,-4
+AST,2008_*_*_NBA_SG,10,3,-19,-3,-16
+AST,2002_*_*_NBA_SG,11,3,-19,-3,-16
+AST,2006_*_*_NBA_SG,12,4,-20,-4,-16
+AST,2009_*_*_NBA_SG,13,4,-20,-4,-16
+AST,2015_*_*_NBA_SG,14,4,-20,-4,-16
+AST,2011_*_*_NBA_SG,15,4,-20,-4,-16
+AST,2007_*_*_NBA_SG,16,5,-21,-5,-16
+AST,1999_*_*_NBA_SG,17,5,-21,-5,-16
+AST,2012_*_*_NBA_SG,18,5,-21,-5,-16
+AST,2010_*_*_NBA_SG,19,5,-21,-5,-16
+AST,2002_*_*_NBA_*,20,20,-24,-20,-4
+AST,2001_*_*_NBA_SG,21,8,-24,-8,-16
+AST,2013_*_*_NBA_*,22,20,-24,-20,-4
+AST,2004_*_*_NBA_SG,23,9,-25,-9,-16
+AST,2007_*_*_NBA_*,24,23,-27,-23,-4
+AST,2009_*_*_NBA_*,25,24,-28,-24,-4
+AST,2005_*_*_NBA_*,26,25,-29,-25,-4
+AST,*_*_*_NBA_*,27,29,-29.5,-29,-0.5
+AST,2011_*_*_NBA_*,28,27,-31,-27,-4
+AST,2006_*_*_NBA_*,29,30,-34,-30,-4
+AST,2010_*_*_NBA_*,30,31,-35,-31,-4
+AST,2015_*_*_NBA_*,31,33,-37,-33,-4
+AST,1998_*_*_NBA_SG,32,21,-37,-21,-16
+AST,2004_*_*_NBA_*,33,35,-39,-35,-4
+AST,2012_*_*_NBA_*,34,35,-39,-35,-4
+AST,2000_*_*_NBA_*,35,36,-40,-36,-4
+AST,2001_*_*_NBA_*,36,37,-41,-37,-4
+AST,1999_*_*_NBA_*,37,39,-43,-39,-4
+AST,1997_*_*_NBA_SG,38,46,-62,-46,-16
+AST,2007_*_Los Angeles Lakers_NBA_*,39,1,-65,-1,-64
+AST,2008_*_Los Angeles Lakers_NBA_*,40,1,-65,-1,-64
+AST,2009_*_Los Angeles Lakers_NBA_*,41,1,-65,-1,-64
+AST,2003_*_Los Angeles Lakers_NBA_*,42,1,-65,-1,-64
+AST,2011_*_Los Angeles Lakers_NBA_*,43,1,-65,-1,-64
+AST,2005_*_Los Angeles Lakers_NBA_*,44,1,-65,-1,-64
+AST,2012_*_Los Angeles Lakers_NBA_*,45,1,-65,-1,-64
+AST,2000_*_Los Angeles Lakers_NBA_*,46,1,-65,-1,-64
+AST,2010_*_Los Angeles Lakers_NBA_*,47,1,-65,-1,-64
+AST,2001_*_Los Angeles Lakers_NBA_*,48,1,-65,-1,-64
+AST,2002_*_Los Angeles Lakers_NBA_*,49,1,-65,-1,-64
+AST,2013_*_Los Angeles Lakers_NBA_*,50,1,-65,-1,-64
+AST,2006_*_Los Angeles Lakers_NBA_*,51,2,-66,-2,-64
+AST,1999_*_Los Angeles Lakers_NBA_*,52,2,-66,-2,-64
+AST,2004_*_Los Angeles Lakers_NBA_*,53,2,-66,-2,-64
+AST,2015_*_Los Angeles Lakers_NBA_*,54,2,-66,-2,-64
+AST,1998_*_Los Angeles Lakers_NBA_*,55,5,-69,-5,-64
+AST,1997_*_Los Angeles Lakers_NBA_*,56,7,-71,-7,-64
+AST,2014_*_Los Angeles Lakers_NBA_*,57,13,-77,-13,-64
+AST,2014_*_*_NBA_SG,58,68,-84,-68,-16
+AST,1998_*_*_NBA_*,59,94,-98,-94,-4
+AST,2001_*_Los Angeles Lakers_NBA_SG,60,1,-129,-1,-128
+AST,2005_*_Los Angeles Lakers_NBA_SG,61,1,-129,-1,-128
+AST,2006_*_Los Angeles Lakers_NBA_SG,62,1,-129,-1,-128
+AST,2007_*_Los Angeles Lakers_NBA_SG,63,1,-129,-1,-128
+AST,2008_*_Los Angeles Lakers_NBA_SG,64,1,-129,-1,-128
+AST,2009_*_Los Angeles Lakers_NBA_SG,65,1,-129,-1,-128
+AST,2004_*_Los Angeles Lakers_NBA_SG,66,1,-129,-1,-128
+AST,2011_*_Los Angeles Lakers_NBA_SG,67,1,-129,-1,-128
+AST,2012_*_Los Angeles Lakers_NBA_SG,68,1,-129,-1,-128
+AST,2010_*_Los Angeles Lakers_NBA_SG,69,1,-129,-1,-128
+AST,2013_*_Los Angeles Lakers_NBA_SG,70,1,-129,-1,-128
+AST,2015_*_Los Angeles Lakers_NBA_SG,71,1,-129,-1,-128
+AST,1998_*_Los Angeles Lakers_NBA_SG,72,2,-130,-2,-128
+AST,1997_*_Los Angeles Lakers_NBA_SG,73,3,-131,-3,-128
+AST,2014_*_Los Angeles Lakers_NBA_SG,74,3,-131,-3,-128
+AST,1997_*_*_NBA_*,75,187,-191,-187,-4
+AST,2000_*_Los Angeles Lakers_NBA_SG,76,1,-257,-1,-256
+AST,1999_*_Los Angeles Lakers_NBA_SG,77,1,-257,-1,-256
+AST,2002_*_Los Angeles Lakers_NBA_SG,78,1,-257,-1,-256
+AST,2003_*_Los Angeles Lakers_NBA_SG,79,1,-257,-1,-256
+AST,2014_*_*_NBA_*,80,301,-305,-301,-4
+PTS,*_*_*_NBA_SG,1,1,-2,-1,-1
+PTS,*_*_*_NBA_*,2,3,-3.5,-3,-0.5
+PTS,2007_*_*_NBA_*,3,1,-5,-1,-4
+PTS,2008_*_*_NBA_*,4,1,-5,-1,-4
+PTS,2003_*_*_NBA_*,5,1,-5,-1,-4
+PTS,*_*_Los Angeles Lakers_NBA_*,6,1,-5,-1,-4
+PTS,2006_*_*_NBA_*,7,1,-5,-1,-4
+PTS,2013_*_*_NBA_*,8,2,-6,-2,-4
+PTS,2002_*_*_NBA_*,9,3,-7,-3,-4
+PTS,2009_*_*_NBA_*,10,3,-7,-3,-4
+PTS,2011_*_*_NBA_*,11,3,-7,-3,-4
+PTS,2012_*_*_NBA_*,12,3,-7,-3,-4
+PTS,*_*_Los Angeles Lakers_NBA_SG,13,1,-9,-1,-8
+PTS,2010_*_*_NBA_*,14,5,-9,-5,-4
+PTS,2001_*_*_NBA_*,15,8,-12,-8,-4
+PTS,2005_*_*_NBA_*,16,10,-14,-10,-4
+PTS,1999_*_*_NBA_*,17,11,-15,-11,-4
+PTS,2006_*_*_NBA_SG,18,1,-17,-1,-16
+PTS,2007_*_*_NBA_SG,19,1,-17,-1,-16
+PTS,2008_*_*_NBA_SG,20,1,-17,-1,-16
+PTS,2013_*_*_NBA_SG,21,1,-17,-1,-16
+PTS,2003_*_*_NBA_SG,22,1,-17,-1,-16
+PTS,2011_*_*_NBA_SG,23,1,-17,-1,-16
+PTS,2012_*_*_NBA_SG,24,1,-17,-1,-16
+PTS,2002_*_*_NBA_SG,25,2,-18,-2,-16
+PTS,2009_*_*_NBA_SG,26,2,-18,-2,-16
+PTS,2004_*_*_NBA_*,27,14,-18,-14,-4
+PTS,1999_*_*_NBA_SG,28,2,-18,-2,-16
+PTS,2010_*_*_NBA_SG,29,2,-18,-2,-16
+PTS,2005_*_*_NBA_SG,30,3,-19,-3,-16
+PTS,2001_*_*_NBA_SG,31,4,-20,-4,-16
+PTS,2000_*_*_NBA_SG,32,6,-22,-6,-16
+PTS,2004_*_*_NBA_SG,33,6,-22,-6,-16
+PTS,2015_*_*_NBA_SG,34,7,-23,-7,-16
+PTS,2000_*_*_NBA_*,35,25,-29,-25,-4
+PTS,1998_*_*_NBA_SG,36,16,-32,-16,-16
+PTS,2015_*_*_NBA_*,37,33,-37,-33,-4
+PTS,1998_*_*_NBA_*,38,43,-47,-43,-4
+PTS,1997_*_*_NBA_SG,39,37,-53,-37,-16
+PTS,2007_*_Los Angeles Lakers_NBA_*,40,1,-65,-1,-64
+PTS,2008_*_Los Angeles Lakers_NBA_*,41,1,-65,-1,-64
+PTS,2009_*_Los Angeles Lakers_NBA_*,42,1,-65,-1,-64
+PTS,2003_*_Los Angeles Lakers_NBA_*,43,1,-65,-1,-64
+PTS,2004_*_Los Angeles Lakers_NBA_*,44,1,-65,-1,-64
+PTS,2011_*_Los Angeles Lakers_NBA_*,45,1,-65,-1,-64
+PTS,2005_*_Los Angeles Lakers_NBA_*,46,1,-65,-1,-64
+PTS,2012_*_Los Angeles Lakers_NBA_*,47,1,-65,-1,-64
+PTS,2010_*_Los Angeles Lakers_NBA_*,48,1,-65,-1,-64
+PTS,2006_*_Los Angeles Lakers_NBA_*,49,1,-65,-1,-64
+PTS,2002_*_Los Angeles Lakers_NBA_*,50,1,-65,-1,-64
+PTS,2013_*_Los Angeles Lakers_NBA_*,51,1,-65,-1,-64
+PTS,2015_*_Los Angeles Lakers_NBA_*,52,1,-65,-1,-64
+PTS,2001_*_Los Angeles Lakers_NBA_*,53,2,-66,-2,-64
+PTS,1999_*_Los Angeles Lakers_NBA_*,54,2,-66,-2,-64
+PTS,2000_*_Los Angeles Lakers_NBA_*,55,2,-66,-2,-64
+PTS,1998_*_Los Angeles Lakers_NBA_*,56,3,-67,-3,-64
+PTS,1997_*_Los Angeles Lakers_NBA_*,57,5,-69,-5,-64
+PTS,2014_*_Los Angeles Lakers_NBA_*,58,14,-78,-14,-64
+PTS,2014_*_*_NBA_SG,59,76,-92,-76,-16
+PTS,2001_*_Los Angeles Lakers_NBA_SG,60,1,-129,-1,-128
+PTS,2005_*_Los Angeles Lakers_NBA_SG,61,1,-129,-1,-128
+PTS,2006_*_Los Angeles Lakers_NBA_SG,62,1,-129,-1,-128
+PTS,2007_*_Los Angeles Lakers_NBA_SG,63,1,-129,-1,-128
+PTS,2008_*_Los Angeles Lakers_NBA_SG,64,1,-129,-1,-128
+PTS,2009_*_Los Angeles Lakers_NBA_SG,65,1,-129,-1,-128
+PTS,2004_*_Los Angeles Lakers_NBA_SG,66,1,-129,-1,-128
+PTS,2011_*_Los Angeles Lakers_NBA_SG,67,1,-129,-1,-128
+PTS,2012_*_Los Angeles Lakers_NBA_SG,68,1,-129,-1,-128
+PTS,2010_*_Los Angeles Lakers_NBA_SG,69,1,-129,-1,-128
+PTS,2013_*_Los Angeles Lakers_NBA_SG,70,1,-129,-1,-128
+PTS,2015_*_Los Angeles Lakers_NBA_SG,71,1,-129,-1,-128
+PTS,1998_*_Los Angeles Lakers_NBA_SG,72,2,-130,-2,-128
+PTS,1997_*_Los Angeles Lakers_NBA_SG,73,2,-130,-2,-128
+PTS,2014_*_Los Angeles Lakers_NBA_SG,74,3,-131,-3,-128
+PTS,1997_*_*_NBA_*,75,173,-177,-173,-4
+PTS,2000_*_Los Angeles Lakers_NBA_SG,76,1,-257,-1,-256
+PTS,1999_*_Los Angeles Lakers_NBA_SG,77,1,-257,-1,-256
+PTS,2002_*_Los Angeles Lakers_NBA_SG,78,1,-257,-1,-256
+PTS,2003_*_Los Angeles Lakers_NBA_SG,79,1,-257,-1,-256
+PTS,2014_*_*_NBA_*,80,385,-389,-385,-4
